@@ -1,7 +1,7 @@
 # miaosha
 秒杀系统 sprintboot+maven+redis+rabbitmq+jmeter压测+优化
 
-miaosha_1~miaosha~7：从0到整个项目的课程源码  
+miaosha_1\~miaosha~7：从0到整个项目的课程源码  
 tools：redis和rabbitmq的linux平台编译安装包
 
 ## 运行  

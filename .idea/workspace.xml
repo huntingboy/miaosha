@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/miaosha_7/src/main/resources/static/js/md5.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="105" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -249,12 +249,12 @@
       <workItem from="1591270786985" duration="3324000" />
       <workItem from="1591282562195" duration="4378000" />
       <workItem from="1591373924105" duration="130000" />
-      <workItem from="1592150664411" duration="714000" />
+      <workItem from="1592150664411" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11566000" />
+    <option name="totallyTimeSpent" value="12440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="-2" width="2518" height="1442" extended-state="6" />
@@ -550,7 +550,7 @@
     <entry file="file://$PROJECT_DIR$/miaosha_7/src/main/resources/static/js/md5.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="105" selection-start-line="9" selection-start-column="105" selection-end-line="9" selection-end-column="105" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
